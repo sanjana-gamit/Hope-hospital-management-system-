@@ -93,6 +93,7 @@ Git & GitHub
 
 VS Code 
 
+
 Contributors 
 
 Sanjana Gamit 
@@ -103,5 +104,7 @@ Divya Parmar
 
 Hiral Mehta
 
+
 Purpose:
+
 The Hope Hospital Management System is a robust and user-friendly application designed to streamline hospital operations. It showcases your skills in real-world system development and can be highlighted in your resume and GitHub portfolio.
