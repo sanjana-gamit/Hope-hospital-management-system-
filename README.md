@@ -96,8 +96,11 @@ VS Code
 Contributors 
 
 Sanjana Gamit 
+
 Dhartee Patel
+
 Divya Parmar 
+
 Hiral Mehta
 
 Purpose:
