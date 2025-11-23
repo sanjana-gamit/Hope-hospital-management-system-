@@ -77,15 +77,14 @@ JavaScript
 
 Backend
 
-Python / PHP / Java (choose your actual tech)
+Python / PHP 
 
-Flask / Django / PHP Native / Java Swing (choose your actual tech)
+PHP Native / Java 
 
 
-Database
+🌐 Database
 
 MySQL
-
 
 Tools
 
@@ -94,15 +93,15 @@ Git & GitHub
 VS Code 
 
 
-Contributors 
+🕵️ Contributors 
 
-Sanjana Gamit 
+👉 Sanjana Gamit 
 
-Dhartee Patel
+👉 Dhartee Patel
 
-Divya Parmar 
+👉 Divya Parmar 
 
-Hiral Mehta
+👉 Hiral Mehta
 
 
 Purpose:
